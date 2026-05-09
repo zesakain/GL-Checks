@@ -1,0 +1,23 @@
+# --- Compilation Outputs ---
+*.o
+*.obj
+*.out
+SimpleRenderer
+
+# --- CMake Folders & Files ---
+/build/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+
+# --- IDE & Editors ---
+.vscode/
+.idea/
+*.swp
+.cache/
+
+# --- Graphics Specific ---
+*.log
